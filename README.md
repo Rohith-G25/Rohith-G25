@@ -36,9 +36,6 @@
 
 <h2 align="center">✨ About Me</h2>
 
-<table align="center" width="95%">
-<tr>
-<td width="65%" valign="middle">
 
 <h3>👨‍💻 Hi, I'm [Rohith]</h3>
 
@@ -46,32 +43,12 @@
 Aspiring Software Developer | Full-Stack Development | Building projects, solving problems, and learning every day.
 </p>
 
-<p>
-🚀 Currently working on <b>[CURRENT_PROJECT]</b><br>
-🌱 Currently learning <b>[CURRENTLY_LEARNING]</b><br>
-💡 Interested in <b>Web Development • Software Engineering • AI • UI/UX</b><br>
-🎯 Goal: <b>[YOUR_GOAL]</b><br>
-⚡ Fun fact: <b>[YOUR_FUN_FACT]</b>
-</p>
-
-<p>
-I enjoy turning ideas into real-world projects, exploring new
-technologies and continuously improving my development skills.
-</p>
-
-</td>
-
-<td width="35%" align="center" valign="middle">
 
 <img
   src="https://i.pinimg.com/originals/7e/2c/5a/7e2c5a8b6e2e9a8b3b7b9b1e4b4e6f1e.gif"
   width="280"
   alt="Coding Animation"
 />
-
-</td>
-</tr>
-</table>
 
 <br>
 
