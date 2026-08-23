@@ -186,27 +186,18 @@ jobs:
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[LINKEDIN_USERNAME]">
+  <a href="[https://www.linkedin.com/in/[LINKEDIN_USERNAME]](https://www.linkedin.com/in/rohith-g-00343a306?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-%5BLinkedIn%5D-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="https://x.com/[X_USERNAME]">
-    <img src="https://img.shields.io/badge/X-%5BX%5D-FF69B4?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
+  
 
-  <a href="https://instagram.com/[INSTAGRAM_USERNAME]">
+  <a href="https://instagram.com/r.ohhhhhhh">
     <img src="https://img.shields.io/badge/Instagram-%5BInstagram%5D-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
-  <a href="https://www.tiktok.com/@[TIKTOK_USERNAME]">
-    <img src="https://img.shields.io/badge/TikTok-%5BTikTok%5D-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-
-  <a href="https://www.youtube.com/@[YOUTUBE_USERNAME]">
-    <img src="https://img.shields.io/badge/YouTube-%5BYouTube%5D-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-
-  <a href="mailto:[YOUR_EMAIL]">
+ 
+  <a href="mailto:rohithhh259@gmail.com">
     <img src="https://img.shields.io/badge/Email-%5BEmail%5D-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -232,5 +223,5 @@ jobs:
 </p>
 
 <p align="center">
-  <sub>© [YEAR] [YOUR_NAME] • Built with ❤️ and lots of ☕</sub>
+  <sub>© 26 Rohith • Built with ❤️ and lots of ☕</sub>
 </p>
