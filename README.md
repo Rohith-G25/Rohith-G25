@@ -172,7 +172,7 @@ jobs:
 
  
   <a href="mailto:rohithhh259@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%5BEmail%5D-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-%5BEmail%5D-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="">
   </a>
 </p>
 
