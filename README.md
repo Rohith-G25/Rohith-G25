@@ -34,10 +34,7 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 
-<h2 align="center">✨ About Me</h2>
-
-
-<h3>👨‍💻 Hi, I'm [Rohith]</h3>
+<h2 align="center">About</h2>
 
 <p>
 Aspiring Software Developer | Full-Stack Development | Building projects, solving problems, and learning every day.
