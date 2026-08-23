@@ -9,20 +9,20 @@
 </p>
 
 <h1 align="center">
-  Hey there, I'm [Rohith] 👋
+  Hey there, I'm Rohith 👋
 </h1>
 
 <p align="center">
-  <a href="https://github.com/[Rohith-G25]">
+  <a href="https://github.com/Rohith-G25">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Developer;UI%2FUX+Enthusiast;Problem+Solver;Always+Learning+Something+New" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/[Rohith-G25]">
+  <a href="https://github.com/Rohith-G25">
     <img src="https://img.shields.io/github/followers/[GITHUB_USERNAME]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/[Rohith-G25]?tab=repositories">
+  <a href="https://github.com/Rohith-G25?tab=repositories">
     <img src="https://img.shields.io/github/stars/[GITHUB_USERNAME]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars">
   </a>
   <img src="https://komarev.com/ghpvc/?username=[GITHUB_USERNAME]&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views">
@@ -95,12 +95,12 @@ technologies and continuously improving my development skills.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=Rohith-G25&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
     height="180"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-G25&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000"
     height="180"
     alt="Top Languages"
   />
@@ -114,7 +114,7 @@ technologies and continuously improving my development skills.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=[GITHUB_USERNAME]&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=808080"
+    src="https://streak-stats.demolab.com?user=Rohith-G25&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=808080"
     alt="GitHub Streak"
     width="75%"
   />
@@ -128,7 +128,7 @@ technologies and continuously improving my development skills.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=[GITHUB_USERNAME]&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=My%20GitHub%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-G25&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=My%20GitHub%20Activity"
     alt="GitHub Activity Graph"
     width="95%"
   />
@@ -142,7 +142,7 @@ technologies and continuously improving my development skills.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/[GITHUB_USERNAME]/[GITHUB_USERNAME]/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Rohith-G25/Rohith-G25/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
     width="95%"
   />
