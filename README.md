@@ -67,17 +67,11 @@ Aspiring Software Developer | Full-Stack Development | Building projects, solvin
 
 <h2 align="center">📊 GitHub Stats</h2>
 
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rohith-G25&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-G25&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-G25&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-G25&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
 <br>
@@ -86,12 +80,10 @@ Aspiring Software Developer | Full-Stack Development | Building projects, solvin
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
+<h2>🔥 GitHub Streak</h2>
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Rohith-G25&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=808080"
-    alt="GitHub Streak"
-    width="75%"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Rohith-G25&theme=dark&hide_border=true" />
 </p>
 
 <br>
