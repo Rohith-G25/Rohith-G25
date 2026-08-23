@@ -186,7 +186,7 @@ jobs:
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/[LINKEDIN_USERNAME]](https://www.linkedin.com/in/rohith-g-00343a306?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://www.linkedin.com/in/[LINKEDIN_USERNAME]](https://www.linkedin.com/in/rohith-g-00343a306?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-%5BLinkedIn%5D-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
@@ -214,14 +214,3 @@ jobs:
 
 <!-- ========================= FOOTER ========================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=65&color=gradient"
-    width="100%"
-    alt="Footer"
-  />
-</p>
-
-<p align="center">
-  <sub>© 26 Rohith • Built with ❤️ and lots of ☕</sub>
-</p>
