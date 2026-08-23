@@ -1,12 +1,9 @@
 <!-- ========================= HEADER ========================= -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there%2C%20I'm%20%5BRohith%5D&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&color=gradient">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there%2C%20I'm%20%5BRohith%5D&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&color=gradient">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there%2C%20I'm%20%5BRohith%5D&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&color=gradient" alt="[Rohith] GitHub Header" width="100%">
-  </picture>
-</p>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Wasup! rohith here." src="art/header-light.png">
+</picture>
 
 <h1 align="center">
   Hey there, I'm Rohith 👋
